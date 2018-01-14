@@ -1,0 +1,2 @@
+# nwa-bot-discord
+NWA
